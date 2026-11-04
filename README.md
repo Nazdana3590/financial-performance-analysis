@@ -60,6 +60,16 @@ The project includes:
 5. Gross Profit and Net Profit Analysis
 6. Operating Expense Breakdown
 
+## Project Screenshots
+
+### Financial Performance Dashboard
+
+![Financial Performance Dashboard](financial-performance-dashboard.png)
+
+### Pivot Tables & Pivot Charts
+
+![Pivot Analysis](pivot-analysis.png)
+
 ## Business Value
 
 This project demonstrates practical financial analysis skills, including financial performance monitoring, profitability analysis, expense control, budget tracking, and management reporting.
